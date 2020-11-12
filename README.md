@@ -5,9 +5,9 @@
 
 - 🎓 Master's graduate with **Business Acumen** and **Technical Backgroud**.
 
-- 🤝🏻 Business Expertise: SDLC, Agile and WaterFall Methods, IT Project Management
-- 💻 Worked/familiar with programming languages: Python/ R/ C/ Java
-- ⚡ Worked/familiar with tools/libs: SciKit Learn/ Tensorflow/ Keras/ Pytorch/ NLTK/ Flask/ Tableau/ PowerBI/ 
+- 🤝🏻 Business Expertise: **SDLC, Agile and WaterFall Methods, IT Project Management**.
+- 💻 Worked/familiar with programming languages: **Python/ R/ C/ Java**.
+- ⚡ Worked/familiar with tools/libs: **SciKit Learn/ Tensorflow/ Keras/ Pytorch/ NLTK/ Flask/ Tableau/ PowerBI **.
 
 
 - 🔭 I’m currently working on an Deep Learning and NLP projects on various open source datasets.
