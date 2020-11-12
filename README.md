@@ -1,6 +1,6 @@
 # Hello!
 
-![Peek 2020-07-09 15-53](https://github.com/markmacwan/markmacwan/blob/main/20201111_210022.gif)
+![Peek 2020-11-11 15-53](https://github.com/markmacwan/markmacwan/blob/main/20201111_210022.gif)
 
 
 - 🎓 Master's graduate with **Business Acumen** and **Technical Backgroud**.
@@ -14,7 +14,7 @@
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**
 
-- 💬 Ask me about Gaming...
+- 💬 Ask me anything about Gaming...
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/markmacwan/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
