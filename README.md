@@ -10,7 +10,7 @@
 - ⚡ Worked/familiar with tools/libs: **SciKit Learn/ Tensorflow/ Keras/ Pytorch/ NLTK/ Flask/ Tableau/ PowerBI**.
 
 
-- 🔭 I’m currently working on an Deep Learning and NLP projects on various open source datasets.
+- 🔭 I’m currently working on an **Computer Vision** and **Natural Language Processing** projects on various open source datasets.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**
 
