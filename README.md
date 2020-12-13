@@ -22,8 +22,9 @@
 <a href= "https://www.steamcommunity.com/id/mark_ftw"><img src="https://img.icons8.com/windows/32/000000/steam.png"/></a>
 <a href= "https://www.twitch.tv/mark_ftw"><img src="https://img.icons8.com/material-outlined/30/000000/twitch.png"/></a>
 </p>
-
+<!--
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=markmacwan.markmacwan" alt="visitor count"/></br>
   <img src="https://github-readme-stats.vercel.app/api/?username=markmacwan&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
+-->
